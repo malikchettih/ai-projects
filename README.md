@@ -22,3 +22,9 @@ Set Off AI projects and tutorials to learn
 -   https://www.youtube.com/playlist?list=PLO_fdPEVlfKoHQ3Ua2NtDL4nmynQC8YiS
 - (Machine Learnia) (French):
 
+### University Resources
+- MIT Opencourse: https://youtube.com/@mitocw?si=Uj8fe5y0IDEHDJea
+- Stansford: https://youtube.com/@stanfordonline?si=2sz-db8g2TtB5tcA
+
+- 
+
